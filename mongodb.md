@@ -8,7 +8,7 @@
 * Using a database we can read, create, update and delete data
 
 ### Database types
-* Now a day we can find different types of databases that fulfill different projects needs
+* Nowadays we can find different types of databases that fulfill different project needs
 * We can split the big database family into two big categories: **Relational** or **No relational or NoSQL**
 * The **Relational** are known as SQL databases (as they use SQL as query language)
 * NoSQL databases are **No relational**
@@ -23,9 +23,9 @@
 * [W3 Schools](https://www.w3schools.com/sql/)
 
 ### NoSQL
-* NoSQL (**N**ot **O**nly **SQL**) is the given name for databases that are not relationals
-* In this database family we can find different types of databases like `key/value, document oriented, grapsh or big tables`
-* All this databases are prepare to horizontaly scale (this means that we can add more databases servers if we need so)
+* NoSQL (**N**ot **O**nly **SQL**) is the given name for databases that are not relational
+* In this database family we can find different types of databases like `key/value, document oriented, graphs or big tables`
+* All these NoSQL databases are prepared to horizontally scale (this means that we can add more database servers if we need to)
 * In some cases we can even use a simple computer (not much hardware) to solve a business problem
 * Martin Fowler gave a great [Introduction to NoSQL talk](https://www.youtube.com/watch?v=qI_g07C_Q5I&t=340s) where he explains all this concepts
 * This talk is a must to understand this subject
@@ -34,9 +34,9 @@
 ## MongoDB
 * MongoDB is a NoSQL document oriented database
 * This database a;low us to store data in JSON format
-* It has a flexible schema, this means that we can change/update our documents structure whenever we need it
+* It has a flexible schema, meaning that we can change/update our document's structure whenever we need to
 * This becomes helpful as we develop and we don't have the final data structure
-* MongoDB also it's prepared to horizontal scale in a easy way
+* MongoDB is also prepared to horizontally scale in an easier way
 * As we learned JavaScript we'll use a database engine that allows us to keep on using this language to store our data
 
 ### Install MongoDB
